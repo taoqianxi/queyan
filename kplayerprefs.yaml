@@ -2,7 +2,7 @@ strings:
   INSTALL_TIMESTAMP: 637283952886674533
   SelectedLanguageType: Preinstalled
   SelectedLanguageCode: zh_klei
-  SaveFilenameKey/: C:\Users\Admin\Documents\Klei\OxygenNotIncluded\save_files/殖民地.sav
+  SaveFilenameKey/: C:\Users\tao\Documents\Klei\OxygenNotIncluded\save_files/殖民地.sav
   SandboxTools.SelectedEntity: MushBar
   SandboxTools.SelectedDisease: FoodPoisoning
 ints:
@@ -10,16 +10,17 @@ ints:
   InstalledLanguage: 0
   LowResTextures: 0
   ResolutionWidth: 1920
-  ResolutionHeight: 1200
-  RefreshRate: 59
+  ResolutionHeight: 1080
+  RefreshRate: 60
   FullScreen: 1
   ColorModeID: 0
-  SESSION_ID: 2
+  SESSION_ID: 5
   PatchNotesVersion: 9
   GAME_ID: 1
   SandboxTools.SelectedElement: 125
   SandboxTools.DiseaseCount: 0
   SandboxTools.BrushSize: 1
+  NextUniqueID: 25965
 floats:
   Volume_SFX: 1
   Volume_Music: 1
